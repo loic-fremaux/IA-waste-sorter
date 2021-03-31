@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>JPEGImages</folder>
+<filename>20210330_144944.jpg</filename>
+<path>/home/loic/projects/school/projet_si/target/classes/datasets/JPEGImages/20210330_144944.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>4032</width>
+    <height>2268</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>autre</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>681</xmin>
+        <ymin>111</ymin>
+        <xmax>2816</xmax>
+        <ymax>2243</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>plastique</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>3804</xmin>
+        <ymin>6</ymin>
+        <xmax>4033</xmax>
+        <ymax>384</ymax>
+    </bndbox>
+</object>
+</annotation>
